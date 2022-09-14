@@ -1,5 +1,5 @@
 # Hands-Free-Presentation
-This is a computer vision based fun project using cv2 and media pipe modules to make your static power point presentations go hand free using simple hand gestures
+This is a computer vision based fun project using cvzone and media pipe modules to make your static power point presentations go hand free using simple hand gestures
 
 Step 1: ```git clone https://github.com/ChaitanyaSirivuri/Hands-Free-Presentation.git``` <br /><br />
 Step 2: ```cd Hands-Free-Presentation```<br /><br />
