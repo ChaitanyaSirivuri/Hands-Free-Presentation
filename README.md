@@ -12,4 +12,6 @@ Step 3: <br />
 
 
 **For MacOS(M1)**<br />
-```python3 -m pip install -r requirementM1.txt```
+```python3 -m pip install -r requirementM1.txt```<br /><br />
+
+Step 4: ```python main.py``` or ```python3 main.py```
