@@ -4,8 +4,12 @@ This is a computer vision based fun project using cv2 and media pipe modules to 
 Step 1: ```git clone https://github.com/ChaitanyaSirivuri/Hands-Free-Presentation.git``` <br /><br />
 Step 2: ```cd Hands-Free-Presentation```<br /><br />
 Step 3: <br />
-**For MacOS and linux users**<br />
+**For MacOS(Intel) and linux users**<br />
 ```python3 -m pip install -r requirements.txt```<br />
 
 **For Windows**<br />
-```python3 -m pip install -r requirementswin.txt```
+```python -m pip install -r requirements.txt```
+
+
+**For MacOS(M1)**<br />
+```python3 -m pip install -r requirementM1.txt```
