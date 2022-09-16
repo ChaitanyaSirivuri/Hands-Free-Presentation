@@ -12,7 +12,7 @@ winWidth, winHeight = 1280, 720
 
 
 # Initialize camera
-capture = cv2.Videocapture(0)
+capture = cv2.VideoCapture(0)
 capture.set(3, winWidth)
 capture.set(4, winHeight)
 
